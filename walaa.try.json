@@ -1,19 +1,15 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكريبت د.أحمد خالد
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      1.5
+// @version      1.4
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط وارسال روابط المهمات  👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
-// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
-// @require      https://unpkg.com/@supabase/supabase-js
+// @require https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
 // @grant        unsafeWindow
-// @grant        GM_xmlhttpRequest
+// @grant        GM.xmlHttpRequest
 // @grant        GM_setClipboard
-// @grant        GM_setValue
-// @grant        GM_getValue
 // @connect      raw.githubusercontent.com
-// @connect      *.supabase.co
 // @updateURL    https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @downloadURL  https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @run-at       document-end
